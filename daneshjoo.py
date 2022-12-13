@@ -18,4 +18,4 @@ elif 17>ave>12:
 elif ave<12:
     m="fail"
 
-print("Hello ", name, lastname, "from", "your average is: ", ave, "you are ", m)
+print("Hello ", name, lastname, "from",city, "your average is: ", ave, "you are ", m)
